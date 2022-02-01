@@ -1,0 +1,12 @@
+[submodule "sg_wrapper"]
+	path = sg_wrapper
+	url = https://github.com/KickstartEntertainment/sg_wrapper
+[submodule "project_structure"]
+	path = project_structure
+	url = https://github.com/KickstartEntertainment/project_structure
+[submodule "naming_conv"]
+	path = naming_conv
+	url = https://github.com/KickstartEntertainment/naming_conv
+[submodule "path_localization"]
+	path = path_localization
+	url = https://github.com/KickstartEntertainment/path_localization
